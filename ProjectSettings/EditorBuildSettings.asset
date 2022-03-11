@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mayor De 3 Numeros.unity
+    guid: 06150b6934302f4449eb4faa560ba149
   m_configObjects: {}
